@@ -1,6 +1,5 @@
 # Capacity-Surfaces
-The paper investigates the impact of two key hyperparame-
-ters, the number of hidden layers and the maximum number of units per
+The paper investigates the impact of two key hyperparameters, the number of hidden layers and the maximum number of units per
 layer, on the accuracy of neural networks. The study aims to provide in-
 sights into how to design more effective and efficient neural networks for
 a given task. To compute the accuracy of neural networks based on their
